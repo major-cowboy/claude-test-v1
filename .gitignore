@@ -1,0 +1,1 @@
+# Private SSH keys and certificates\n*.pem\n*.key\n*.p12\n*.pfx\n*.ppk\nid_rsa*\nid_dsa*\nid_ecdsa*\nid_ed25519*\n*_rsa\n*_dsa\n*_ecdsa\n*_ed25519\nknown_hosts*\n# Environment variables and secrets\n.env\n.env.*\n!.env.example\n*secret*\n*credentials*\n# OS and editor artifacts\n.DS_Store\nThumbs.db\n*.swp\n*.swo\n*~\n.vscode/\n.idea/
